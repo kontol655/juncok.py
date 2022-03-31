@@ -10,7 +10,6 @@ import os
 
 
 
-port = sys.argv[2]
 orgip =ip
 
 Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
