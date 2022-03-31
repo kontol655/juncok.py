@@ -28,14 +28,6 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
 
 os.system("clear")
 print("\033[31mAttack To IP %s|%s"%(orgip,port))
- print("")
-    /\_____/\    My Team for support : https://discord.gg/YqkZTAqNJY
-   /  o   o  \    Support My Partner : Jeje & JetX & Xhan
-  ( ==  ^  == )   My Discord : pip.#3631
-   )         (    YouTube : pipsamp
-  (           )   ========================================================
- ( (  )   (  ) )     DDOS FOR SAMP, ULTRA - HOST, 20GTPS
-(__(__)___(__)__) ===== Version: 1.0.0''')
 
 
 
